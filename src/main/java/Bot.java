@@ -15,7 +15,7 @@ public class Bot extends TelegramLongPollingBot {
         Dialog.messages.size();
     }
 
-    final private String BOT_TOKEN = "5624079435:AAHgRGY3R-2YeIUsKgphwfjg0foM6Uc6E2A";
+    final private String BOT_TOKEN = "***";
 
     String chatID = "-1001750303796";
 
